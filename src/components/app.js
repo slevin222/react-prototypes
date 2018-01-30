@@ -6,7 +6,7 @@ export default () => {
     return (
         <div className="main-container">
             <h1 className="main-title">Scrapbook</h1>
-            <Scrapbook/>
+            <Scrapbook />
         </div>
     )
 }
